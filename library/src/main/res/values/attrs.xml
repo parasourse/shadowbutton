@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ShadowButton">
+        <attr name="is_enabled" format="boolean" />
+        <attr name="text_color" format="color" />
+        <attr name="text_padding" format="dimension" />
+        <attr name="text_all_caps" format="boolean" />
+        <attr name="shadow_distance" format="dimension" />
+        <attr name="shadow_enlargement" format="dimension" />
+        <attr name="shadow_resource" format="reference" />
+        <attr name="background_resource" format="reference" />
+    </declare-styleable>
+
+
+</resources>
